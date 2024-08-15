@@ -6,25 +6,25 @@ const experiences = [
     {
         company: 'Neurotone AI',
         role: 'Software Engineer Intern',
-        duration: 'July 2015 - December 2017',
+        duration: 'May 2024 - August 2024',
         description: 'Developed a full-stack iPhone app with React.js and AVFoundation for tinnitus relief. Mastered Expo Go for efficient deployment and used Linear to track progress and participate in daily stand-ups.'
     },
     {
         company: 'Florida State University',
         role: 'Learning Assistant',
-        duration: 'July 2015 - December 2017',
+        duration: 'January 2022 - Present',
         description: 'Demonstrated mastery of topics to ensure student success. Assisted students in learning object oriented programming and advanced mathematics revolving around trigonometry.'
     },
     {
         company: 'Terran Orbital',
         role: 'Software Engineer Intern',
-        duration: 'January 2018 - May 2020',
+        duration: 'May 2023 - August 2023',
         description: 'Designed a Qt/C++ GUI to interface with satellite payload software. Developed unit tests with GoogleTest/GoogleMock and streamlined documentation using LaTeX for satellite software components.'
     },
     {
         company: 'NASA',
         role: 'Software Engineer Intern',
-        duration: 'June 2020 - Present',
+        duration: 'January 2023 - April 2023',
         description: 'Analyzed the effects of deep space radiation and lunar/martian gravity on rodent cardiovascular and lymphatic systems using Python.'
     },
 ];
